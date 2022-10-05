@@ -39,5 +39,5 @@ sum_series (num, 0,1) =>fibonacci base
 sum_series (num,2,1)  => lucs base
 otherwise
 differnt series with argumets base 
-3 4 7 11 18 29
+3 4 7 11 18 29-
 '''
