@@ -4,7 +4,7 @@
 
 ### setup
 
-## [pull request](https://github.com/alaa-adoos/math-series/pull/1)
+## [pull request](https://github.com/alaa-adoos/math-series/pull/2)
 ## to run the application :
 **python -m math_series.series**
 
