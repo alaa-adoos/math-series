@@ -1,6 +1,8 @@
-from math_series.series import fibonacci,lucas,sum_series
+from math_series.series import fibonacci,lucas,sum_series # import functions from series module
 
+#test the result from the funcitons
 
+#test fibonacci function from line 5 to line 19
 def test_fibonacci():
     actual=fibonacci(0)
     excepted=0
@@ -16,6 +18,7 @@ def test_fibonacci3():
     excepted=8
     assert actual==excepted
 
+#test lucas function from line 22 to line 35
 def test_lucas():
     actual=lucas(0)
     excepted=2
@@ -31,6 +34,7 @@ def test_lucas2():
     excepted=29
     assert actual==excepted
 
+#test sum_series function from line 38 to the end
 def test_sum():
     actual=sum_series(6,0,1)
     excepted=8
